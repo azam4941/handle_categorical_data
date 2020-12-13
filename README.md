@@ -1,2 +1,6 @@
 # handle_categorical_data
-one-hot encoding , label encoding, count and frequency encoding
+1) one-hot encoding 
+
+2) label encoding
+
+3) count and frequency encoding
